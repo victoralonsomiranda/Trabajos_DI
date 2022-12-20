@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="caec9e60-01d9-485f-8878-7e977c67dd07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../T1/Ejercicios/Ejercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/Ejercicios/src/Ejercicio5/MainEjercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/Ejercicios/src/Ejercicio5/model/Carta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/Ejercicios/src/Ejercicio6/MainEjercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/Ejercicios/src/Ejercicio6/model/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/Ejercicios/src/Ejercicio6/model/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/Ejercicios/src/Ejercicio6/model/Gasolinera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/Ejercicios/src/Ejercicio6/model/Surtidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/ExamenCorregido/ExamenCorregido.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/ExamenCorregido/src/CentroSalud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/ExamenCorregido/src/CitaPaciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/ExamenCorregido/src/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/ExamenCorregido/src/Medico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/ExamenCorregido/src/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/ExamenCorregido/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/ExamenVictorAlonso/ExamenVictorAlonso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/ExamenVictorAlonso/src/MainMedicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/ExamenVictorAlonso/src/examen/Medico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/ExamenVictorAlonso/src/examen/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Accionista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Directivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Votante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T2/ExamenVictor/src/main/java/com/example/examenvictor/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T2/ExamenVictor/src/main/java/com/example/examenvictor/override.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T2/Pestanias_Ret/src/main/java/com/example/pestanias_ret/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T2/Pestanias_Ret/src/main/java/com/example/pestanias_ret/model/CambioBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T2/Pestanias_Ret/src/main/java/com/example/pestanias_ret/model/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T2/Pestanias_Ret/src/main/resources/com/example/pestanias_ret/main-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T2/Pestanias_Ret/src/main/resources/com/example/pestanias_ret/power_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T2/Pestanias_Ret/src/main/resources/com/example/pestanias_ret/power_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T2/Pestanias_Ret/src/main/resources/com/example/pestanias_ret/switchoff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T2/Pestanias_Ret/src/main/resources/com/example/pestanias_ret/switchon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/src/main/java/com/example/calculadoravictor/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/src/main/java/com/example/calculadoravictor/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/CalculadoraVictor/src/main/resources/com/example/calculadoravictor/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/.idea/artifacts/PokeApi_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/out/artifacts/PokeApi_jar/PokeApi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/java/com/example/pokeapi/EstadisticasController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/java/com/example/pokeapi/MovimientosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/java/com/example/pokeapi/PokeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/java/com/example/pokeapi/PokeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/java/com/example/pokeapi/TiposController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/java/com/example/pokeapi/model/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bg_charizard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bg_charizard_x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bg_eevee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bg_gengar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bg_greninja.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bg_infernape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bg_masterball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bg_pikachu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bg_pokeball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bg_sylveonn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bg_tentacool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bg_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/bug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/electric.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/estadisticas-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/fairy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/fighting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/flying.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/ghost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/ice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/movimientos-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/poke-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/power_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/power_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/psychic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/steel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/tipos-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/PokeApi/src/main/resources/com/example/pokeapi/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/VictorAlonso/src/main/java/com/example/victoralonso/SecondController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/VictorAlonso/src/main/java/com/example/victoralonso/ThirdController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/VictorAlonso/src/main/resources/com/example/victoralonso/second-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/VictorAlonso/src/main/resources/com/example/victoralonso/third-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/pruebaExamen/src/main/java/com/example/pruebaexamen/SecondController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../T4/pruebaExamen/src/main/resources/com/example/pruebaexamen/second-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/src/main/java/com/example/calculadora/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/src/main/java/com/example/calculadora/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../calculadoravictor/Calculadora/src/main/resources/com/example/calculadora/main-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/apivictor/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/apivictor/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/apivictor/Noticia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/apivictor/main-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T1/RepasoDos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../T1/RepasoDos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Asalariado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Asalariado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Autonomo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Autonomo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Coche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Empresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Jefe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Jefe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/MainTrabajadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/MainTrabajadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Trabajador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../T1/RepasoDos/src/model/Trabajador.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2J6iX2aHCRIOEnyqTBPNRwy8kCs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/victo/Desktop/estudios/GitHub/VictorAlonso_DI/T4/PokeApi"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.apivictor.MyApplication" />
+      <module name="ApiVictor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.apivictor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caec9e60-01d9-485f-8878-7e977c67dd07" name="Changes" comment="" />
+      <created>1671404973000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671404973000</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
